@@ -1,0 +1,3 @@
+curl -X 'GET' \
+  'https://todo.pixegami.io/list-tasks/123' \
+  -H 'accept: application/json'
